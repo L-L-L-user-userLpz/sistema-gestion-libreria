@@ -63,19 +63,21 @@
 
 ## Ejemplos visuales
 
-> Sube tus capturas reales en `docs/screenshots/` y reemplaza estas rutas cuando las tengas.
+> Punto de venta / Carrito
 
-- Punto de venta / Carrito  
-  ![Pantalla de ventas](docs/screenshots/Ventas.png)
+![Pantalla de ventas](docs/screenshots/Ventas.png)
 
-- Inventario  
-  ![Pantalla de inventario](docs/screenshots/Inventario.png)
+> Inventario
 
-- Reportes  
-  ![Reporte de ventas](docs/screenshots/Reportes.png)
+![Pantalla de inventario](docs/screenshots/Inventario.png)
 
-- Configuración  
-  ![Pantalla de configuracion](docs/screenshots/Configuracion.png)
+> Reportes
+
+![Reporte de ventas](docs/screenshots/Reportes.png)
+
+> Configuración  
+
+![Pantalla de configuracion](docs/screenshots/Configuracion.png)
 
 **Mockup del flujo de venta (Mermaid):**
 
@@ -176,7 +178,7 @@ python sistema.py
 ---
 
 ## Estructura del proyecto
-```bash
+```
 sistema-gestion-libreria/
 ├── sistema.py                 # Código fuente principal (Tkinter)
 ├── requirements.txt           # Dependencias del proyecto
@@ -202,7 +204,7 @@ sistema-gestion-libreria/
 
 - `ventas.csv`: registros de ventas (fecha/hora, ítems, totales, cliente, método de pago).
 
-- `config.json`: datos de personalización. **Ejemplo sugerido**:
+- `config.json`: datos de personalización.
 ```json
 {
     "company": {
@@ -218,8 +220,6 @@ sistema-gestion-libreria/
     }
 }
 ```
-
-> Ajusta las claves según lo que soporte tu `sistema.py`.
 
 ---
 
@@ -242,7 +242,6 @@ sudo apt-get install -y python3-tk
 
 - **Cámara no detectada / Permisos:**
   - Cierra otras apps que usen la cámara.
-  - Prueba cambiar `"indice_camara"` en `config.json` (0 → 1).
 
 - **OpenCV falla al abrir cámara en Linux:**
 ```bash
@@ -266,18 +265,21 @@ pip install --upgrade --force-reinstall -r requirements.txt
 
 1. Haz un fork del proyecto.
 2. Crea una rama: `git checkout -b feature/mi-mejora`.
-3. Commits descriptivos y pequeños.
+3. Commits descriptivos.
 4. Pull request con captura/Descripción si afecta a la UI.
 
-  - **Ideas de roadmap:**
+- **Ideas de roadmap**
 
-    - Backups automáticos programados.
-    - Soporte de base de datos (SQLite/PostgreSQL) además de CSV.
-    - Soporte multiusuario/roles.
-    - Tests automatizados (pytest) y CI.
+  - Backups automáticos programados.
+  - Soporte de base de datos (SQLite/PostgreSQL/ u otro) además de CSV.
+  - Soporte multiusuario/roles.
+  - Tests automatizados (pytest) y CI.
+  - UI más amigable/simple de cada sección.
 
 ---
 
 ## Licencia
 
-Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [![License: MIT](LICENSE)](LICENSE) para más detalles.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
