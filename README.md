@@ -3,7 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-informational.svg)](#)
 [![OpenCV](https://img.shields.io/badge/Scanning-OpenCV-ff69b4.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Licencia GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Licencia CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **Sistema de Gestión de Librería** en **Python** con **Tkinter**. Administra inventario, ventas y facturación en **PDF**, genera **reportes gráficos** y permite escaneo de **códigos de barras** (manual, simulación o **cámara web con OpenCV**). Incluye historial de ventas y personalización de datos de la empresa.
 
@@ -280,6 +281,18 @@ pip install --upgrade --force-reinstall -r requirements.txt
 
 ## Licencia
 
-Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+[![Licencia GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Licencia CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+- El **código fuente** de este proyecto está bajo la licencia [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
+
+Uso únicamente como programa de muestra para fines educativos.  
+
+No se permite su uso con fines comerciales sin autorización del autor.  
+
+- La **documentación y manuales** están bajo la licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Se permite su uso educativo, pero no con fines comerciales.  
+
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
