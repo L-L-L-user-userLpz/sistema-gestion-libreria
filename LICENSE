@@ -1,21 +1,48 @@
-MIT License
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-Copyright (c) 2025 L-L-L-user-userLpz
+Copyright (c) 2025 López Leandro (L-L-L-user-userLpz)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este programa es software libre: puede redistribuirlo y/o modificarlo
+bajo los términos de la Licencia Pública General de GNU publicada por
+la Free Software Foundation, ya sea la versión 3 de la Licencia, o
+(cualquier versión posterior).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de
+COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
+Vea la Licencia Pública General de GNU para más detalles.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Debería haber recibido una copia de la Licencia Pública General de GNU
+junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
+
+------------------------------------------------------------------------
+Nota adicional del autor:
+Este proyecto se publica únicamente como **programa de muestra** para fines
+educativos.  
+Queda expresamente prohibido su uso con fines comerciales sin autorización
+escrita del autor.
+
+---
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2025 López Leandro (L-L-L-user-userLpz)
+La documentación, manuales de usuario y textos asociados a este proyecto
+están licenciados bajo la licencia Creative Commons Atribución-NoComercial 4.0 Internacional.
+
+Permisos:
+- Compartir: se permite copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar: se permite remezclar, transformar y construir a partir del material.
+
+Bajo las siguientes condiciones:
+- Atribución: se debe dar crédito adecuado al autor, proporcionando un enlace a esta licencia.
+- NoComercial: no se puede utilizar el material con fines comerciales.
+
+Texto completo de la licencia:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+--------------------------------------------
+Nota del autor:
+Esta documentación se publica únicamente con fines educativos.
+No está permitido su uso en contextos comerciales sin autorización expresa.
